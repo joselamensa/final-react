@@ -4,7 +4,8 @@ Ecommerce de ejemplo para le empresa REVKTOR. Un proyecto para entrega final.
 
 
 <br />
-![Text](https://i.gifer.com/JXA0.gif)
+
+![](https://i.gifer.com/JXA0.gif)
 
 # Sobre el proyecto
 
