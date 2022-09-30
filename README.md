@@ -1,7 +1,10 @@
 # REVKT@R BEBIDA5
 
+Ecommerce de ejemplo para le empresa REVKTOR. Un proyecto para entrega final.
+
+
 <br />
-<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6"></a></p>
+![Text](https://i.gifer.com/JXA0.gif)
 
 # Sobre el proyecto
 
