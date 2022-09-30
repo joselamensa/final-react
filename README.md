@@ -1,7 +1,7 @@
 # REVKT@R BEBIDA5
 
 <br />
-<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6"></a></p>
 
 # Sobre el proyecto
 
@@ -13,7 +13,7 @@ Proyecto E-Commerce realizado durante la cursada de React en la plataforma de es
 - React Bootstrap
 - MDB Bootstrap
 
-Como iniciar el proyecto? 
+# Como iniciar el proyecto? 
 
 1- Instalar dependencias:
 npm install
