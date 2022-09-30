@@ -1,31 +1,34 @@
-# FCSTORE WEB 🖥 📱
-Aplicación web de FCStore.
-<br/>
-![ezgif com-gif-maker (2)](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
+# REVKT@R BEBIDA5
 
-# Trabajo realizado
+<br />
+<iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
 
-E-commerce realizado como proyecto en el curso de React.js de CoderHouse LATAM.
+# Sobre el proyecto
 
-# Comenzando  🚀
-```
+Proyecto E-Commerce realizado durante la cursada de React en la plataforma de estudio Coderhouse.
 
-# Instalar dependencias para el cliente
-npm install
-
-# Correr la app
-npm start
-
-```
-# Construido con 🛠️
+# Elementos utilizados
 - React.js
 - React Router Dom
-- TailwindCSS & TailwindUI
+- React Bootstrap
+- MDB Bootstrap
 
-# Equipo de dev 🎁
+Como iniciar el proyecto? 
 
-- Ferrari, Franco Ciro
+1- Instalar dependencias:
+npm install
 
-Se agradece a FCstore por la confianza y motivación. <br/>
-También a CoderHouse por la oportunidad de crecer como developer.
+2- Correr la app:
+npm start
+
+
+
+# Estudiante 🤓
+
+Jose Lamensa Sañudo
+
+### Socials
+
+<p align="left"> <a href="https://www.facebook.com/joselamensa12" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/joselamensa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/joselamensa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jose-lamensa-6a29b8236/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/joselamensa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 
