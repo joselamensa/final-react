@@ -3,6 +3,7 @@ import ItemCount from "./ItemCount";
 import { NavLink } from 'react-router-dom';
 import swal from "sweetalert";
 import { useCartContext } from "../Context/CartContext";
+import Button from "react-bootstrap/esm/Button";
 
 export const ItemDetail = ({data} ) => {
     
@@ -28,8 +29,8 @@ export const ItemDetail = ({data} ) => {
                     <p>{"$" + data.price} </p>
                     {
                         irAlCarrito
-                            ? <NavLink to="/cart">Ir al Carrito</NavLink>
-                            :<ItemCount stock={6} initial={1} onAdd={onAdd} />
+                            ? <Button><NavLink to="/cart" className="text-white">Ir al Carrito</NavLink></Button>
+                            :<ItemCount stock={data.stock} initial={1} onAdd={onAdd} />
                     }
                 </div>
             </div>

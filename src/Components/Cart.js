@@ -66,9 +66,9 @@ function Cart () {
                 cart.map(product => <ItemCart key = {product.id} product={product} />)
             }
             <p>
-                total {totalPrice()}
+                Total: $ {totalPrice()}
             </p>
-            <button onClick={ordenCompra}>Emitir compra</button>
+            <Button onClick={ordenCompra}>Emitir compra</Button>
 
         </>
     )

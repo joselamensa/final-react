@@ -14,7 +14,7 @@ import {
 const Item = ({info}) => {
     return (
         <div className='container-fluid'>
-        <MDBCard className="imagenescards">
+        <MDBCard className="imagenescards hola">
             <Link to={`/detalle/${info.id}`} className="prods">
                 <MDBCardImage src={info.image} alt='...' position='top'  />
                 <MDBCardBody>

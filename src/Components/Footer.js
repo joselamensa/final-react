@@ -11,7 +11,7 @@ import { BsFacebook, BsGithub, BsInstagram, BsLinkedin, BsTwitch, BsTwitter } fr
 export default function Footer() {
   return (
     
-    <MDBFooter className='bg-dark text-center text-white'>
+    <MDBFooter className='bg-dark text-center text-white foot'>
       <MDBContainer className='p-4 pb-0'>
         <section className='mb-4'>
           <MDBBtn outline color="light" floating className='m-1' href='https://www.facebook.com/joselamensa12/' target='_blank' role='button'>
