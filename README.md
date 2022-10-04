@@ -5,7 +5,9 @@ Ecommerce de ejemplo para le empresa REVKTOR. Un proyecto para entrega final.
 
 <br />
 
-![](https://i.gifer.com/JXA0.gif)
+# Link al video mostrando la funcionalidad de la web
+
+https://drive.google.com/file/d/1TM_khjbG72ViHQRYoFLdfRYoYtrHPb6I/view?usp=sharing
 
 # Sobre el proyecto
 
@@ -16,6 +18,7 @@ Proyecto E-Commerce realizado durante la cursada de React en la plataforma de es
 - React Router Dom
 - React Bootstrap
 - MDB Bootstrap
+- Sweet Alert
 
 # Como iniciar el proyecto? 
 

@@ -31,7 +31,7 @@ const [showNavSecond, setShowNavSecond] = useState(false);
         <MDBCollapse navbar show={showNavSecond}>
           <MDBNavbarNav>
             <MDBNavbarLink active aria-current='page'>
-              <NavLink to="/">Data Productos</NavLink>
+              <NavLink to="/">Todos los Productos</NavLink>
             </MDBNavbarLink>
             <MDBNavbarLink >
               <NavLink to="/categoria/sinalcohol">Productos sin alcohol</NavLink>
